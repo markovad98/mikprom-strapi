@@ -40,6 +40,9 @@
     },
     "Weight": {
       "type": "string"
+    },
+    "category": {
+      "type": "string"
     }
   }
 }
